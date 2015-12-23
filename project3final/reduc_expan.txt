@@ -1,0 +1,3 @@
+top_n_docs	5
+top_t_terms	5
+query_term_threshold	5

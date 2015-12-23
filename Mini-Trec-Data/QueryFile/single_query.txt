@@ -1,0 +1,17 @@
+<top>
+
+<num> Number: 265
+<title> Topic: Domestic Violence
+
+<desc> Description:
+Document will report on domestic violence in the U.S.
+
+<narr> Narrative:
+A discussion of domestic violence and the amount of
+sanctioned violence in American culture.  Spousal abuse.  Repeat
+offenders.  It has been noted that immigrant women
+are especially vulnerable to domestic violence.  The
+cultures of their home countries often prevent these
+women from seeking help.
+
+</top>
